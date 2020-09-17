@@ -11,5 +11,5 @@ mvn clean install
 ##Running the project
 
 ```java
-   $ java -jar target/gojek-1.0.jar (Interactive command-line mode)
+   $ java -jar target/gojek-1.0.jar
 ```
